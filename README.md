@@ -2,10 +2,14 @@
 
 ### Growth Mindset
 
-> Growth mindset is where an individual would be open for change and one who listens to criticism.
+> Growth mindset is where an individual is open for change. Knowledge has no bounds!
 
-On the main page:
-Explain “growth mindset” in your own words
-Include 3 reminders to yourself of how to keep yourself in a growth mindset
+There are three things that I think about to remind myself about having a growth mindset:
+
+* I should accept critisism and not ignore it
+* I should always challenge myself with task and learn from them
+* I should always be inspired
+
+
 Utilize at least 5 different features of Markdown to structure your page
 Be sure to introduce yourself, and include a link to your GitHub portfolio page
