@@ -1,5 +1,10 @@
 # Tools and Terminal
 
++ CLI (Command Line Interface)
++ Terminal - Text based interface to manage file systems
++ GUI (Graphical User Interface)
++ IDE 
+
 ### Text Editors
 
 A text editor is where you are able to make changes to the the website you are editing. You can either:
@@ -17,6 +22,14 @@ Make sure you look into these:
 - Emmet
 - Syntax Highlighting
 - Themes
+
+## Terminal Commands
+
+- `cd` change directory
+- `ls` list
+- `pwd` print working directory
+- `touch` create new file
+- `mkdir` make new directory
 
 ## Table of Contents
 
