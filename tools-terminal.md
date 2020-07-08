@@ -14,7 +14,7 @@ or
 
 * Use your browser's text editor
 
-Choose a text editor where you feel like you can get the most work done. Whichever text editor you choose, make sure that you're really comfortable with it -- try experimenting with different ones. 
+> Choose a text editor where you feel like you can get the most work done. Whichever text editor you choose, make sure that you're really comfortable with it -- try experimenting with different ones. 
 
 Make sure you look into these:
 
