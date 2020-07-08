@@ -18,4 +18,4 @@ Make sure you look into these:
 - Syntax Highlighting
 - Themes
 
-[Tools and Terminal](tools-terminal.md)
+[Home](README.md)
