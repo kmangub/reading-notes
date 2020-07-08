@@ -14,3 +14,7 @@ There are three things that I think about to remind myself about having a growth
 My name is *Karlo Mangubat* and my favorite games are *The Legend of Zelda series*. 
 
 Here's my link to my GitHub portfolio page: https://kmangub.github.io/reading-notes/
+
+## Table of Contents
+
++ [Tools and Terminal](tools-terminal.md)
