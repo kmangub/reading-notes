@@ -18,4 +18,6 @@ Make sure you look into these:
 - Syntax Highlighting
 - Themes
 
-[Home](README.md)
+## Table of Contents
+
++ [Home](README.md)
