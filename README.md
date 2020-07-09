@@ -11,3 +11,5 @@ Here's my link to my GitHub portfolio page: https://kmangub.github.io/reading-no
 
 + [Growth Mindset](growth-mindset.md)
 + [Tools and Terminal](tools-terminal.md)
++ [Git-Intro](Git-Intro.md)
++ [Coder's Computer](coders-computer.md)
