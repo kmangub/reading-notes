@@ -1,7 +1,7 @@
 # CSS Notes
 
 - CSS - Cascading Style Sheets
-- RGB - Red Green Blue - ` backgroun-color: rgb(214, 233, 176);`
+- RGB - Red Green Blue - ` background-color: rgb(214, 233, 176);`
 - HSL - Hue Saturation Light
 - Opacity - the transperency of objects range from 0 to one, where 0 is the most transparent and 1 is solid 
 - Hex codes - hexidecimal code - #000000 or #000
