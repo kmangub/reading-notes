@@ -16,8 +16,10 @@
 
 HTML5 allows users to divide parts of the page to make it look more accessible. 
 
-viewport is what device is being displayed on.
+Viewport is what device is being displayed on.
 
 We use google chrome because we can use "inspect" elements and see the developer's code or console.
+
+When creating a page, you have to know who your audience is and what they want in the website. You have to create the website in a way where it's very accessible and can achieve their goals in the website. **Wireframes** help with planning out the webpage. 
 
 [Back to Home Page](README.md)
