@@ -35,9 +35,9 @@ Text base interface to the system.
 
 Below are a list of useful commands to remember:
 
-    * `pwd` - print working directory
-    * `ls` - list
-    * `cd` - change directories
+   * `pwd` - print working directory
+   * `ls` - list
+   * `cd` - change directories
 
 > Tip: You can press the up arrow key to scroll through previously used commands.
 
@@ -45,9 +45,9 @@ Below are a list of useful commands to remember:
 
 Paths enable us to navigate through files. There are two different types of paths:
 
-    * Absolute Path - Specify a location in relation to **the root directory**
+   * Absolute Path - Specify a location in relation to **the root directory**
 
-    * Relative Path - Specify a location in relation to **where we are in the system**
+   * Relative Path - Specify a location in relation to **where we are in the system**
 
 Root directory is the top of the structure denoted by a `/`
 
@@ -67,8 +67,8 @@ To make a directory hidden, start with a `.` for the file name.
 
 Here are some more useful commands:
 
-    * `file` - get information on a file or directory
-    * `ls -a` - list contents, including hidden files
+   * `file` - get information on a file or directory
+   * `ls -a` - list contents, including hidden files
     
 > Tip: Terminals are case-sensitive.
 
