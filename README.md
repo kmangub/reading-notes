@@ -18,3 +18,4 @@ Here's my link to my GitHub portfolio page: https://kmangub.github.io/reading-no
 + [Git-Intro](Git-Intro.md)
 + [Coder's Computer](coders-computer.md)
 + [HTML](html.md)
++ [css-notes](css-notes.md)
