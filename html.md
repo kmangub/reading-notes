@@ -19,3 +19,5 @@ HTML5 allows users to divide parts of the page to make it look more accessible.
 viewport is what device is being displayed on.
 
 We use google chrome because we can use "inspect" elements and see the developer's code or console.
+
+[Back to Home Page](README.md)

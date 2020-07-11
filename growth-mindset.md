@@ -19,3 +19,5 @@ Here are some useful commands for Markdown.
 - For links, `[Insert Readable Text Here](Insert url here)`
 
 - For Images, `![Insert Readable Text Here](insert image url here)`
+
+[Back to Home Page](README.md)

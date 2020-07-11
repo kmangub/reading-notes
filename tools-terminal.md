@@ -31,6 +31,5 @@ Make sure you look into these:
 - `touch` create new file
 - `mkdir` make new directory
 
-## Table of Contents
 
-+ [Home](README.md)
++ [Back to Home Page](README.md)

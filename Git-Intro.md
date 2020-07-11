@@ -12,3 +12,5 @@ Files in Git can reside in three main states: committed, modified and staged.
 * Committed - Save-as
 * Modified - Changes are made
 * Staged - Files to be committed in the next snapshot
+
+[Back to Home Page](README.md)
