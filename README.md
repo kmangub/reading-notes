@@ -3,7 +3,7 @@
 
 
 
-My name is *Karlo Mangubat* and I currently reside in Yokosuka, Japan. I got my Bachelor's Degree in Mathematics from Jacksonville University, FL. Afterwords, I graduated Officer Candidate School in Newport, RI and was assigned to *USS STETHEM* (DDG 63) to serve as a Main Propulsion Officer. 
+My name is *Karlo Mangubat* and I currently reside in Yokosuka, Japan. I got my Bachelor's Degree in Mathematics from Jacksonville University, FL. Afterwards, I graduated Officer Candidate School in Newport, RI and was assigned to *USS STETHEM* (DDG 63) to serve as a Main Propulsion Officer. I separated from the Navy and now I work as a contractor as a Supply Technician for Yoksosuka Ship Repair Facility.
 
 I did a little bit of coding while pursuing my degree. I have experience in C# and LaTeX.
 
