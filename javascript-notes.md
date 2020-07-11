@@ -28,8 +28,8 @@ must not use a dash(-) or a period (.) in a variable name.
 
 True and false has a value related to binary numbers. True is 1 and false is 0.
 
-`typeof` tells you the data type
-`==` - comparing only the characters
-`===` - more specific, absolute
-`isNaN()` - is not a number
-`!==` - is not
+* `typeof` tells you the data type
+* `==` - comparing only the characters
+* `===` - more specific, absolute
+* `isNaN()` - is not a number
+* `!==` - is not
