@@ -20,3 +20,4 @@ Here's my link to my GitHub portfolio page: https://kmangub.github.io/reading-no
 + [HTML](html.md)
 + [CSS](css-notes.md)
 + [Javascript](javascript-notes.md)
++ [Functions](function-notes.md)
