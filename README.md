@@ -22,3 +22,4 @@ Here's my link to my GitHub portfolio page: https://kmangub.github.io/reading-no
 + [Javascript](javascript-notes.md)
 + [How a Computer Works](how-computer-works.md)
 + [Functions](function-notes.md)
++ [For and While Loops](loops-notes.md)
